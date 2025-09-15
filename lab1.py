@@ -1,3 +1,4 @@
+# variant 4
 import itertools
 import math
 square = [1, 2, 3,
